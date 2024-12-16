@@ -1,6 +1,13 @@
 # practicapki
 Practicas de certificación PKI
 
+
+### **github**
+https://github.com/Deyvid0104/practicapki.git
+
+### **YouTube**
+https://youtu.be/xC5T8TS7C5c
+
 # Proyecto de Autenticación Mutua con Certificados y SuperUsuario
 
 Este proyecto implementa un sistema de autenticación mutua mediante certificados digitales utilizando Nginx. Además, incluye un cliente especial denominado **SuperUsuario**, con acceso exclusivo a una página de administración que permite visualizar registros de usuarios autenticados en la aplicación principal.
