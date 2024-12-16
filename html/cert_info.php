@@ -113,9 +113,9 @@ echo "</table>";
 $user = $certData['subject']['CN']; // Nombre del cliente
 $email = $certData['subject']['emailAddress']; // Correo del cliente
 $ip = $_SERVER['REMOTE_ADDR']; // IP del cliente
-$fecha = date("Y-m-d"); // Fecha actual
-$hora = date("H:i:s"); // Hora actual
-$log_entry = "$timestamp, $user, $email, $ip\n";
+$fecha = date(" Y-m-d "); // Fecha actual
+$hora = date(" H:i:s "); // Hora actual
+$log_entry = "$fecha, $hora, $user, $email, $ip\n";
 file_put_contents('/var/log/user_access.log', $log_entry, FILE_APPEND);
 ?>
 </body>
