@@ -7,6 +7,8 @@ https://github.com/Deyvid0104/practicapki.git
 
 ### **YouTube**
 https://youtu.be/xC5T8TS7C5c
+# Actualización
+https://youtu.be/z_gJ2LRe-uY
 
 # Proyecto de Autenticación Mutua con Certificados y SuperUsuario
 
